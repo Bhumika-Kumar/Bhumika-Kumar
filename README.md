@@ -35,7 +35,7 @@ My current focus is on developing practical AI applications around **LLMs, RAG p
 
 ### Agentic AI
 
-`AI Agents` `Agentic AI` `Multi-Agent Systems` `Tool Calling` `AI Workflows`
+`AI Agents` `Multi-Agent Systems` `Tool Calling` `AI Workflows`
 
 ### Backend & APIs
 
